@@ -1,0 +1,21 @@
+C:\Users\Seda\source\repos\ConsoleApp21\ConsoleApp21\obj\Debug\ConsoleApp21.csprojAssemblyReference.cache
+C:\Users\Seda\source\repos\ConsoleApp21\ConsoleApp21\obj\Debug\ConsoleApp21.csproj.CoreCompileInputs.cache
+C:\Users\Seda\source\repos\ConsoleApp21\ConsoleApp21\bin\Debug\ConsoleApp21.exe.config
+C:\Users\Seda\source\repos\ConsoleApp21\ConsoleApp21\bin\Debug\ConsoleApp21.exe
+C:\Users\Seda\source\repos\ConsoleApp21\ConsoleApp21\bin\Debug\ConsoleApp21.pdb
+C:\Users\Seda\source\repos\ConsoleApp21\ConsoleApp21\obj\Debug\ConsoleApp21.exe
+C:\Users\Seda\source\repos\ConsoleApp21\ConsoleApp21\obj\Debug\ConsoleApp21.pdb
+C:\Users\Seda\Desktop\ConsoleApp21\ConsoleApp21\bin\Debug\ConsoleApp21.exe.config
+C:\Users\Seda\Desktop\ConsoleApp21\ConsoleApp21\bin\Debug\ConsoleApp21.exe
+C:\Users\Seda\Desktop\ConsoleApp21\ConsoleApp21\bin\Debug\ConsoleApp21.pdb
+C:\Users\Seda\Desktop\ConsoleApp21\ConsoleApp21\obj\Debug\ConsoleApp21.csprojAssemblyReference.cache
+C:\Users\Seda\Desktop\ConsoleApp21\ConsoleApp21\obj\Debug\ConsoleApp21.csproj.CoreCompileInputs.cache
+C:\Users\Seda\Desktop\ConsoleApp21\ConsoleApp21\obj\Debug\ConsoleApp21.exe
+C:\Users\Seda\Desktop\ConsoleApp21\ConsoleApp21\obj\Debug\ConsoleApp21.pdb
+C:\Users\Seda\Desktop\NDP\NDP Ödev 2\ConsoleApp21\ConsoleApp21\bin\Debug\ConsoleApp21.exe.config
+C:\Users\Seda\Desktop\NDP\NDP Ödev 2\ConsoleApp21\ConsoleApp21\bin\Debug\ConsoleApp21.exe
+C:\Users\Seda\Desktop\NDP\NDP Ödev 2\ConsoleApp21\ConsoleApp21\bin\Debug\ConsoleApp21.pdb
+C:\Users\Seda\Desktop\NDP\NDP Ödev 2\ConsoleApp21\ConsoleApp21\obj\Debug\ConsoleApp21.csprojAssemblyReference.cache
+C:\Users\Seda\Desktop\NDP\NDP Ödev 2\ConsoleApp21\ConsoleApp21\obj\Debug\ConsoleApp21.csproj.CoreCompileInputs.cache
+C:\Users\Seda\Desktop\NDP\NDP Ödev 2\ConsoleApp21\ConsoleApp21\obj\Debug\ConsoleApp21.exe
+C:\Users\Seda\Desktop\NDP\NDP Ödev 2\ConsoleApp21\ConsoleApp21\obj\Debug\ConsoleApp21.pdb

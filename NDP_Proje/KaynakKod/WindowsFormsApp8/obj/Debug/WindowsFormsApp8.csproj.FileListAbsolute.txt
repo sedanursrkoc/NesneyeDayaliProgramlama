@@ -1,0 +1,25 @@
+C:\Users\Seda\source\repos\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe.config
+C:\Users\Seda\source\repos\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe
+C:\Users\Seda\source\repos\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.pdb
+C:\Users\Seda\source\repos\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csprojAssemblyReference.cache
+C:\Users\Seda\source\repos\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Form1.resources
+C:\Users\Seda\source\repos\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Properties.Resources.resources
+C:\Users\Seda\source\repos\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.GenerateResource.cache
+C:\Users\Seda\source\repos\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.CoreCompileInputs.cache
+C:\Users\Seda\source\repos\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.exe
+C:\Users\Seda\source\repos\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.pdb
+C:\Users\Seda\Desktop\NDP\NDP Proje\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe.config
+C:\Users\Seda\Desktop\NDP\NDP Proje\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe
+C:\Users\Seda\Desktop\NDP\NDP Proje\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.pdb
+C:\Users\Seda\Desktop\NDP\NDP Proje\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csprojAssemblyReference.cache
+C:\Users\Seda\Desktop\NDP\NDP Proje\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Form1.resources
+C:\Users\Seda\Desktop\NDP\NDP Proje\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Properties.Resources.resources
+C:\Users\Seda\Desktop\NDP\NDP Proje\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.GenerateResource.cache
+C:\Users\Seda\Desktop\NDP\NDP Proje\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.CoreCompileInputs.cache
+C:\Users\Seda\Desktop\NDP\NDP Proje\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.exe
+C:\Users\Seda\Desktop\NDP\NDP Proje\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.pdb
+C:\Users\Seda\Desktop\NDP\NDP Proje\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\Interop.WMPLib.dll
+C:\Users\Seda\Desktop\NDP\NDP Proje\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Seda\Desktop\NDP\NDP Proje\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\Interop.WMPLib.dll
+C:\Users\Seda\Desktop\NDP\NDP Proje\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Seda\Desktop\NDP\NDP Proje\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.ResolveComReference.cache
